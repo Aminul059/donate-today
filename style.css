@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+}
+.header{
+    text-align: center;
+    margin-top: 120px;
+}
+.header-text1{
+    font-size: 70px;
+    font-weight: 700;
+}
+.header-text2{
+    font-size: 26px;
+    margin-top: 15px;
+}
+.btn{
+    padding: 20px;
+    margin: 20px 0 0 0;
+    border: 2px solid gray;
+    border-radius: 10px;
+    background-color: orangered;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+.header-img{
+    height: 600px;
+    padding: 50px;
+    color: white;
+    background-size: cover;
+    background-image: url('images/donation1.jpg');
+}
+.main{
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 200px;
+}
+#donate{
+    font-size: 50px;
+    font-weight: 800px;
+    margin-bottom: 30px;
+}
+#taka{
+    border: 2px solid orangered;
+    border-radius: 5px;
+    padding:40px;
+    background-color:lightpink;
+   
+    color: orangered;
+    padding:10px 5px 10px 5px;
+}
+.donate-2{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.flex{
+    margin-top: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+    font-size: 40px;
+}
+.flex div{
+    margin: 20px;
+    font-weight: 600;
+    color: gray;
+    padding: 20px 20px 20px 20px;
+    background-color: white;
+    box-shadow: inset;
+}
+#input{
+    margin-top: 30px;
+    width:400px;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+.main-main{
+    text-align: center;
+   
+}
+.main-main-1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.flex-2{
+    display: flex;
+    justify-content:space-evenly;
+    width: 80%;
+    margin-left:150px;
+   
+
+
+}
+.donate-text{
+    margin-top: 30px;
+    font-size: 24px;
+    margin-bottom: 60px;
+}
+.cart{
+   
+    border-radius: 7px;
+    margin-bottom: 100px;
+    padding: 40px 20px;
+    width: 25%;
+   
+   
+}
+#cart-color1{
+    background-color: azure;
+}
+#cart-color2{
+    background-color: rgb(244, 194, 224);
+}
+#cart-color3{
+    background-color: rgb(244, 247, 200);
+}
+
+.title{
+    font-size: 32px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px 0px;
+
+}
+.humble{
+    font-size: 40px;
+    color: orangered;
+}
+.icon{
+
+    font-size: 70px;
+}
+.class1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 100px;
+    
+}
+.class1 img{
+    width: 100%;
+}
+.class2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 200px;
+}
+.class2 img{
+    width: 100%;
+}
+.class1 div p{
+    font-size: 20px;
+    color: gray;
+    
+}
+.class2 div p{
+    font-size: 20px;
+    color: gray;
+    
+}
+
+.class1 div h1{
+    font-size:40px;
+}
+.class2 div h1{
+    font-size:40px;
+}
+.img{
+    margin-right: 20px;
+}
